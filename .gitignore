@@ -1,0 +1,9 @@
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.user
+*.suo
+*.cache
+**/bin/
+**/obj/

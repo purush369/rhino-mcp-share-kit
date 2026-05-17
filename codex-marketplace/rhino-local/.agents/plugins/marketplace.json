@@ -1,0 +1,20 @@
+{
+  "name": "rhino-local",
+  "interface": {
+    "displayName": "Rhino Local"
+  },
+  "plugins": [
+    {
+      "name": "rhino",
+      "source": {
+        "source": "local",
+        "path": "./plugins/rhino"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

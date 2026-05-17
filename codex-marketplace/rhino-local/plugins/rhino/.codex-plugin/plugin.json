@@ -1,0 +1,28 @@
+{
+  "name": "rhino",
+  "description": "Connect Codex to a local Rhino MCP server running on this computer.",
+  "version": "1.0.0",
+  "author": {
+    "name": "OpenAI Codex Local Setup"
+  },
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Rhino",
+    "shortDescription": "Use a local Rhino MCP server from Codex.",
+    "longDescription": "Connects Codex to a Rhino MCP server running locally so it can create geometry, inspect the scene, and drive Rhino workflows.",
+    "developerName": "OpenAI Codex Local Setup",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Create a box at the origin in Rhino.",
+      "List the objects in the current Rhino file.",
+      "Capture a viewport image from Rhino."
+    ],
+    "brandColor": "#4d4d4d"
+  }
+}

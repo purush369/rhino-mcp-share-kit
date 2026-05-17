@@ -1,0 +1,10 @@
+{
+  "name": "rhino",
+  "description": "Rhino MCP companion skill and project setup for Claude.",
+  "version": "1.0.0",
+  "author": {
+    "name": "OpenAI Codex Local Setup"
+  },
+  "license": "MIT",
+  "keywords": ["rhino", "mcp", "claude", "3d", "cad"]
+}

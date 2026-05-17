@@ -1,0 +1,23 @@
+{
+  "name": "rhino-local",
+  "owner": {
+    "name": "OpenAI Codex Local Setup"
+  },
+  "metadata": {
+    "description": "Claude companion marketplace for a local Rhino MCP workflow."
+  },
+  "plugins": [
+    {
+      "name": "rhino",
+      "source": "./",
+      "description": "Rhino MCP companion skill and setup for Claude.",
+      "version": "1.0.0",
+      "author": {
+        "name": "OpenAI Codex Local Setup"
+      },
+      "license": "MIT",
+      "keywords": ["rhino", "mcp", "claude", "3d", "cad"],
+      "category": "productivity"
+    }
+  ]
+}

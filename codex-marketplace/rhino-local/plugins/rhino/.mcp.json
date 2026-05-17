@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "rhino": {
+      "type": "http",
+      "url": "http://localhost:4862/",
+      "note": "Local Rhino MCP server running inside Rhino on this machine."
+    }
+  }
+}
