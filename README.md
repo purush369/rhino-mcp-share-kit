@@ -1,6 +1,6 @@
 # Rhino MCP Share Kit
 
-![Rhino MCP preview](examples/previews/accurate_glasshouse_capture_developed_arctic.png)
+![Rhino MCP preview](examples/rhino-selection-shots/rhino_selection_shot_01_clean_arctic.png)
 
 A shareable Windows + Rhino 8 starter kit for running Rhino as a local MCP server and connecting it to both Codex and Claude.
 
